@@ -1,0 +1,31 @@
+text,label
+"Hello, your meeting is scheduled for tomorrow at 10 AM.",Safe
+"Dear student, your assignment submission is confirmed.",Safe
+"Your Amazon order has been shipped successfully.",Safe
+"Your bank statement is available in your account.",Safe
+"Thank you for your payment. Your transaction was successful.",Safe
+"Your electricity bill has been generated for this month.",Safe
+"Your interview has been scheduled for Monday.",Safe
+"Welcome to our newsletter. Here are this week's updates.",Safe
+"Your password was changed successfully.",Safe
+"Your monthly account summary is ready.",Safe
+"Congratulations! You won a free iPhone. Click here to claim your prize.",Phishing
+"URGENT! Your account will be blocked. Verify your password immediately.",Phishing
+"Click this link to win free money now.",Phishing
+"Your bank account has been suspended. Login immediately to verify.",Phishing
+"You are the lucky winner of a $1000 prize. Claim now.",Phishing
+"Important security alert! Confirm your account information immediately.",Phishing
+"Your email has been selected for a free reward. Click the link now.",Phishing
+"URGENT: Your payment failed. Click here to update your card details.",Phishing
+"Verify your username and password at http://fake-login.example.com immediately.",Phishing
+"Congratulations winner! Send your banking information to receive your prize.",Phishing
+"Your account will be deleted today. Click http://verify-account.example.com to stop deletion.",Phishing
+"Free gift waiting for you! Login now and claim your reward.",Phishing
+"Security warning! Your account needs immediate verification.",Phishing
+"Click http://free-prize.example.com to claim your cash reward.",Phishing
+"Dear user, verify your password and credit card information immediately.",Phishing
+"Your account has unusual activity. Login now to secure it.",Phishing
+"Congratulations, you have won a lottery. Provide your details to claim.",Phishing
+"URGENT verification required. Click the link and enter your login details.",Phishing
+"Free vacation offer! Click the link now before the offer expires.",Phishing
+"Your online banking account needs verification. Confirm your details now.",Phishing
